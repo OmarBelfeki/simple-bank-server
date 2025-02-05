@@ -1,0 +1,22 @@
+{
+  "bar1234": {
+    "credit_balance": 4500,
+    "credit_paid": 3500,
+    "credit_rolling": 4000
+  },
+  "pos1234": {
+    "credit_balance": 4500,
+    "credit_paid": 3500,
+    "credit_rolling": 4000
+  },
+  "iot1234": {
+    "credit_balance": 4500,
+    "credit_paid": 3500,
+    "credit_rolling": 4000
+  },
+  "friend1234": {
+    "credit_balance": 4500,
+    "credit_paid": 3500,
+    "credit_rolling": 4000
+  }
+}
