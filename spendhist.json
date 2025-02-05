@@ -1,0 +1,135 @@
+{
+  "bar123": {
+    "jan": {
+      "total_spend": 15000,
+      "liability": 4000,
+      "assets": 1300
+    },
+    "feb": {
+      "total_spend": 15000,
+      "liability": 4000,
+      "assets": 1300
+    },
+    "march": {
+      "total_spend": 15000,
+      "liability": 4000,
+      "assets": 1300
+    },
+    "apr": {
+      "total_spend": 15000,
+      "liability": 4000,
+      "assets": 1300
+    },
+    "may": {
+      "total_spend": 15000,
+      "liability": 4000,
+      "assets": 1300
+    },
+    "jun": {
+      "total_spend": 15000,
+      "liability": 4000,
+      "assets": 1300
+    }
+
+  },
+  "pos1234": {
+    "jan": {
+      "total_spend": 15000,
+      "liability": 4000,
+      "assets": 1300
+    },
+    "feb": {
+      "total_spend": 15000,
+      "liability": 4000,
+      "assets": 1300
+    },
+    "march": {
+      "total_spend": 15000,
+      "liability": 4000,
+      "assets": 1300
+    },
+    "apr": {
+      "total_spend": 15000,
+      "liability": 4000,
+      "assets": 1300
+    },
+    "may": {
+      "total_spend": 15000,
+      "liability": 4000,
+      "assets": 1300
+    },
+    "jun": {
+      "total_spend": 15000,
+      "liability": 4000,
+      "assets": 1300
+    }
+
+  },
+  "friend1234": {
+    "jan": {
+      "total_spend": 15000,
+      "liability": 4000,
+      "assets": 1300
+    },
+    "feb": {
+      "total_spend": 15000,
+      "liability": 4000,
+      "assets": 1300
+    },
+    "march": {
+      "total_spend": 15000,
+      "liability": 4000,
+      "assets": 1300
+    },
+    "apr": {
+      "total_spend": 15000,
+      "liability": 4000,
+      "assets": 1300
+    },
+    "may": {
+      "total_spend": 15000,
+      "liability": 4000,
+      "assets": 1300
+    },
+    "jun": {
+      "total_spend": 15000,
+      "liability": 4000,
+      "assets": 1300
+    }
+
+  },
+  "iot1234": {
+    "jan": {
+      "total_spend": 15000,
+      "liability": 4000,
+      "assets": 1300
+    },
+    "feb": {
+      "total_spend": 15000,
+      "liability": 4000,
+      "assets": 1300
+    },
+    "march": {
+      "total_spend": 15000,
+      "liability": 4000,
+      "assets": 1300
+    },
+    "apr": {
+      "total_spend": 15000,
+      "liability": 4000,
+      "assets": 1300
+    },
+    "may": {
+      "total_spend": 15000,
+      "liability": 4000,
+      "assets": 1300
+    },
+    "jun": {
+      "total_spend": 15000,
+      "liability": 4000,
+      "assets": 1300
+    }
+
+  }
+
+}
